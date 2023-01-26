@@ -1,3 +1,2 @@
-http://example.com/2023/01/27/%E4%BB%8A%E6%99%9A%E7%BA%A6%E4%BA%86%E8%80%81%E9%99%88%E5%8F%B0%E7%90%83/
-http://example.com/2023/01/26/hello-world/
-http://example.com/
+https://arongfeiba.github.io/2023/01/27/%E4%BB%8A%E6%99%9A%E7%BA%A6%E4%BA%86%E8%80%81%E9%99%88%E5%8F%B0%E7%90%83/
+https://arongfeiba.github.io/
