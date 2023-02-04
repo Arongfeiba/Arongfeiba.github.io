@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿荣笔记</title>
-  
+  <icon>https://www.gravatar.com/avatar/53ca865a84f527b240384c7976fa075a</icon>
   <subtitle>记录天马行空的胡思乱想</subtitle>
   <link href="https://arongbiji.com/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>阿荣</name>
-    
+    <email>skyyyr@foxmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -75,9 +75,9 @@
     
     
     
-    <category term="日记" scheme="https://arongbiji.com/categories/%E6%97%A5%E8%AE%B0/"/>
-    
     <category term="生活" scheme="https://arongbiji.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="日记" scheme="https://arongbiji.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
     <category term="想法" scheme="https://arongbiji.com/categories/%E6%97%A5%E8%AE%B0/%E6%83%B3%E6%B3%95/"/>
     
