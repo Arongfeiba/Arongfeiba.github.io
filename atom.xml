@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿荣笔记</title>
   <icon>https://www.gravatar.com/avatar/53ca865a84f527b240384c7976fa075a</icon>
-  <subtitle>记录天马行空的胡思乱想</subtitle>
+  
   <link href="https://arongbiji.com/atom.xml" rel="self"/>
   
   <link href="https://arongbiji.com/"/>
