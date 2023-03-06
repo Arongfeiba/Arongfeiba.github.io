@@ -92,6 +92,13 @@
 
   
   <url>
+    <loc>https://arongbiji.com/tags/web3-0/</loc>
+    <lastmod>2023-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://arongbiji.com/tags/5%E7%82%B9%E8%AE%A1%E5%88%92/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -121,13 +128,6 @@
   
   <url>
     <loc>https://arongbiji.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/</loc>
-    <lastmod>2023-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://arongbiji.com/tags/web3-0/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
